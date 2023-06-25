@@ -1,0 +1,1 @@
+document.getElementById("f1reg").style.color="blue";

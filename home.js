@@ -1,0 +1,1 @@
+document.getElementById("std").style.color="yellow";
